@@ -9,3 +9,7 @@
 - [Findings] Plot and Rework: Modeling Storylines for Visual Storytelling. [Paper](https://arxiv.org/pdf/2105.06950v3.pdf) & [Code](https://github.com/ethan5437/PR-VIST)
 - [Long] Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence. [Paper](https://arxiv.org/pdf/2105.08963v1.pdf) & [Code](https://github.com/thu-coai/HINT)
 - [Findings] TILGAN: Transformer-based Implicit Latent GAN for Diverse and Coherent Text Generation. [Paper](https://aclanthology.org/2021.findings-acl.428.pdf) & [Code](https://github.com/shizhediao/tilgan)
+### 2022
+- [Long] Keywords and Instances: A Hierarchical Contrastive Learning Framework Unifying Hybrid Granularities for Text Generation. [Paper](https://aclanthology.org/2022.acl-long.304.pdf)
+- [Long] Mix and Match: Learning-free Controllable Text Generation using Energy Language Models. [Paper] (https://aclanthology.org/2022.acl-long.31.pdf) & [Code](https://github.com/mireshghallah/mixmatch)
+- [Findings] Event Transition Planning for Open-ended Text Generation.[Paper](https://arxiv.org/pdf/2204.09453v1.pdf)
