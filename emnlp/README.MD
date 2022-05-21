@@ -9,3 +9,4 @@
 - STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation. [Paper](https://arxiv.org/pdf/2010.01717v1.pdf) & [Code](https://github.com/dojoteef/storium-frontend)
 - UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation. [Paper](https://arxiv.org/pdf/2009.07602v1.pdf) & [Code](https://github.com/thu-coai/UNION)
 -[Findings] Narrative Text Generation with a Latent Discrete Plan. [Paper](https://arxiv.org/pdf/2010.03272v1.pdf) & [Code](https://github.com/harsh19/Latent-Anchor-Plan)
+-
