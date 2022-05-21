@@ -19,3 +19,14 @@ Visual Storytelling
 - Storytelling from an Image Stream Using Scene Graphs. [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/6455/6311)
 - What Makes A Good Story? Designing Composite Rewards for Visual Storytelling. [Paper](https://arxiv.org/pdf/1909.05316v2.pdf) & [Code](https://github.com/JunjieHu/ReCo-RL)
 
+### 2021
+- Automated Storytelling via Causal, Commonsense Plot Ordering. [Paper](https://arxiv.org/pdf/2009.00829v2.pdf) & [Code](https://github.com/rajammanabrolu/C2PO)
+- Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. [Paper](https://www.aaai.org/AAAI21Papers/AAAI-10130.YuMH.pdf)
+- Sketch and Customize: A Counterfactual Story Generator. [Paper](https://arxiv.org/pdf/2104.00929v1.pdf) & [Code](https://github.com/ying-A/SandC)
+- Story Ending Generation with Multi-Level Graph Convolutional Networks over Dependency Trees. [Paper](https://www.aaai.org/AAAI21Papers/AAAI-7220.HuangQ.pdf) 
+& [Code](https://github.com/VISLANG-Lab/MLGCN-DP)
+- TextGAIL: Generative Adversarial Imitation Learning for Text Generation. [Paper](https://arxiv.org/pdf/2004.13796v4.pdf)
+Visual Storytelling
+- Commonsense Knowledge Aware Concept Selection For Diverse and Informative Visual Storytelling. [Paper](https://arxiv.org/pdf/2102.02963v1.pdf)
+- Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning. [Paper](https://www.aaai.org/AAAI21Papers/AAAI-3382.XuC.pdf)
+
