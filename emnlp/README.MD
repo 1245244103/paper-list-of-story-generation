@@ -10,3 +10,5 @@
 - UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation. [Paper](https://arxiv.org/pdf/2009.07602v1.pdf) & [Code](https://github.com/thu-coai/UNION)
 - [Findings] Narrative Text Generation with a Latent Discrete Plan. [Paper](https://arxiv.org/pdf/2010.03272v1.pdf) & [Code](https://github.com/harsh19/Latent-Anchor-Plan)
 ### 2021
+- The Perils of Using Mechanical Turk to Evaluate Open-Ended Text Generation. [Paper](https://arxiv.org/pdf/2109.06835v1.pdf)
+- [Findings] A Plug-and-Play Method for Controlled Text Generation. [Paper](https://arxiv.org/pdf/2109.09707v1.pdf) & [Code](https://github.com/dapascual/k2t)
